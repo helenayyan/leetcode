@@ -17,14 +17,17 @@
 | Date       | Title        |
 | ------------- |:-------------:|
 | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+| 06/05/2020 | [0572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+
 ## Coding Style
 | Language       | Style        |
 | ------------- |:-------------:|
 | Python     | [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) |
-## Questions by Category
-I use both the US and Chinese website of Leetcode, therefore there are questions uploaded to both version.
 
-The number and title of each questions is consistent and the web pages of the original question are linked below as well.
+## Questions by Category
+######I use both the US and Chinese website of Leetcode, therefore there are questions uploaded to both version.
+######The number and title of each questions is consistent and the web pages of the original question are linked below as well.
+
 ### Array
 | Number | Title       |
 | -------|:-------------:|
@@ -36,6 +39,8 @@ The number and title of each questions is consistent and the web pages of the or
 | Number | Title       |
 | -------|:-------------:|
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+|  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+
 
 ***
 ### Math
