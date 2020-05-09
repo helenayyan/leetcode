@@ -18,6 +18,8 @@
 | ------------- |:-------------:|
 | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 | 06/05/2020 | [0572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+| 09/05/2020 | [0069 Square root of x](https://leetcode.com/problems/sqrtx/)
+
 
 ## Coding Style
 | Language       | Style        |
@@ -34,6 +36,18 @@
 |  0014  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|
 |  0088  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
 
+***
+### Binary Search
+| Number | Title       |Note|
+| -------|:-------------:|:----------------------:|
+|  0035  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Extension of 0704|
+|  0069  | [Square root of x](https://leetcode.com/problems/sqrtx/) | This question can also use *f(x)= x^2 - a* (牛顿迭代法）|
+|  0704  | [Binary Search](https://leetcode.com/problems/binary-search/)
+
+#### General solutions for binary search:
+- 知识点讲解(by @liweiwei1419)：
+['用「排除法」（减治思想）写二分查找问题、与其它二分查找模板的比较'](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)
+###### 重点：根据实际情况判断mid的归属， 不要死套模版
 ***
 ### Binary Search Tree
 | Number | Title       |
