@@ -4,9 +4,12 @@
 ###### User name: yy452
 ***
 ## Navigator
+- [My Coding Challenge Diary (2020)](#my-coding-challenge-diary--2020-)
 - [Coding Style](#coding-style)
 - [Questions by Category](#questions-by-category)
   * [Array](#array)
+  * [Binary Search](#binary-search)
+    + [General solutions for binary search:](#general-solutions-for-binary-search-)
   * [Binary Search Tree](#binary-search-tree)
   * [Math](#math)
   * [String](#string)
@@ -19,6 +22,7 @@
 | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 | 06/05/2020 | [0572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 | 09/05/2020 | [0069 Square root of x](https://leetcode.com/problems/sqrtx/)
+| 10/05/2020 | [0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 
 ## Coding Style
@@ -54,6 +58,7 @@
 | -------|:-------------:|
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+|0236|[0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 
 ***
