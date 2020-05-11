@@ -23,6 +23,7 @@
 | 06/05/2020 | [0572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 | 09/05/2020 | [0069 Square root of x](https://leetcode.com/problems/sqrtx/)
 | 10/05/2020 | [0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+| 11/05/2020 | [0050 Pow(x, n) ](https://leetcode.com/problems/powx-n/)
 
 
 ## Coding Style
@@ -63,9 +64,10 @@
 
 ***
 ### Math
-| Number | Title       |
-| -------|:-------------:|
+| Number | Title       | Note|
+| -------|:-------------:|:------:|
 |  0007  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+|  0050  | [Pow(x, n) ](https://leetcode.com/problems/powx-n/)|[Using merge sort / binary (@krahets)](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-qing-xi-tu-jie-by-jyd/)
 
 ***
 ### String
