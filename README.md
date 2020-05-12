@@ -1,4 +1,4 @@
-# Leetcode
+# LeetCode
  This is a place to store and categorize all the past coding practices, mainly leetcode practice. 
 
 ###### User name: yy452
@@ -12,6 +12,7 @@
     + [General solutions for binary search:](#general-solutions-for-binary-search-)
   * [Binary Search Tree](#binary-search-tree)
   * [Math](#math)
+  * [Stack](#stack)
   * [String](#string)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -24,6 +25,7 @@
 | 09/05/2020 | [0069 Square root of x](https://leetcode.com/problems/sqrtx/)
 | 10/05/2020 | [0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 | 11/05/2020 | [0050 Pow(x, n) ](https://leetcode.com/problems/powx-n/)
+| 12/05/2020 | [0155 Min Stack](https://leetcode.com/problems/min-stack/)
 
 
 ## Coding Style
@@ -68,6 +70,13 @@
 | -------|:-------------:|:------:|
 |  0007  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 |  0050  | [Pow(x, n) ](https://leetcode.com/problems/powx-n/)|[Using merge sort / binary (@krahets)](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-qing-xi-tu-jie-by-jyd/)
+
+***
+### Stack
+| Number | Title       |
+| -------|:-------------:|
+|  0155  | [Min Stack](https://leetcode.com/problems/min-stack/)
+
 
 ***
 ### String
