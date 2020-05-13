@@ -4,6 +4,7 @@
 ###### User name: yy452
 ***
 ## Navigator
+- [Useful Resources](#useful-resources)
 - [My Coding Challenge Diary (2020)](#my-coding-challenge-diary--2020-)
 - [Coding Style](#coding-style)
 - [Questions by Category](#questions-by-category)
@@ -16,8 +17,12 @@
   * [String](#string)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-## My Coding Challenge Diary (2020)
+***
+## Useful Resources
+- [Leetcode 常见题型代码模版](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
+ （整理的非常细致的一些可以通用的算法框架，可以适当背下来。）
+***
+## My Coding Challenge Diary (May 2020)
 | Date       | Title        |
 | ------------- |:-------------:|
 | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
@@ -26,12 +31,14 @@
 | 10/05/2020 | [0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 | 11/05/2020 | [0050 Pow(x, n) ](https://leetcode.com/problems/powx-n/)
 | 12/05/2020 | [0155 Min Stack](https://leetcode.com/problems/min-stack/)
+| 13/05/2020 | [0102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-
+***
 ## Coding Style
 | Language       | Style        |
 | ------------- |:-------------:|
 | Python     | [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) |
+***
 
 ## Questions by Category
 ######I use both the US and Chinese website of Leetcode, therefore there are questions uploaded to both version.
@@ -57,11 +64,12 @@
 ###### 重点：根据实际情况判断mid的归属， 不要死套模版
 ***
 ### Binary Search Tree
-| Number | Title       |
-| -------|:-------------:|
+| Number | Title       | Note|
+| -------|:-------------:|:-----:|
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+|  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
+|  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-|0236|[0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 
 ***
