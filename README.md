@@ -12,6 +12,7 @@
   * [Binary Search](#binary-search)
     + [General solutions for binary search:](#general-solutions-for-binary-search-)
   * [Binary Search Tree](#binary-search-tree)
+  * [Linked List](#linked-list)
   * [Math](#math)
   * [Stack](#stack)
   * [String](#string)
@@ -22,7 +23,7 @@
 - [Leetcode 常见题型代码模版](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
  （整理的非常细致的一些可以通用的算法框架，可以适当背下来。）
 ***
-## My Coding Challenge Diary (May 2020)
+## My Coding Challenge Diary (2020)
 | Date       | Title        |
 | ------------- |:-------------:|
 | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
@@ -32,6 +33,7 @@
 | 11/05/2020 | [0050 Pow(x, n) ](https://leetcode.com/problems/powx-n/)
 | 12/05/2020 | [0155 Min Stack](https://leetcode.com/problems/min-stack/)
 | 13/05/2020 | [0102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+| 10/06/2020 | [0009 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 ***
 ## Coding Style
@@ -71,12 +73,20 @@
 |  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 
+***
+### Linked List
+| Number | Title       | Note|
+| -------|:-------------:|:------:|
+|  0092  | [Reversed Linked List II](https://leetcode.com/problems/reversed-linked-list-ii/)| Integrated with the method in 0206 reversed linked list|
+|  0206  | [Reversed Linked List](https://leetcode.com/problems/reversed-linked-list/)|
+
 
 ***
 ### Math
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
 |  0007  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+|  0009  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 |  0050  | [Pow(x, n) ](https://leetcode.com/problems/powx-n/)|[Using merge sort / binary (@krahets)](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-qing-xi-tu-jie-by-jyd/)
 
 ***
