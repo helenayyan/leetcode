@@ -34,6 +34,8 @@
 | 12/05/2020 | [0155 Min Stack](https://leetcode.com/problems/min-stack/)
 | 13/05/2020 | [0102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 | 10/06/2020 | [0009 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+| 11/06/2020 | [0739 Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
+
 
 ***
 ## Coding Style
@@ -94,6 +96,7 @@
 | Number | Title       |
 | -------|:-------------:|
 |  0155  | [Min Stack](https://leetcode.com/problems/min-stack/)
+|  0739  | [Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
 
 
 ***
