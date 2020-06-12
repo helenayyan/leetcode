@@ -12,6 +12,7 @@
   * [Binary Search](#binary-search)
     + [General solutions for binary search:](#general-solutions-for-binary-search-)
   * [Binary Search Tree](#binary-search-tree)
+  * [Hash Table](#hash-table)
   * [Linked List](#linked-list)
   * [Math](#math)
   * [Stack](#stack)
@@ -35,7 +36,7 @@
 | 13/05/2020 | [0102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 | 10/06/2020 | [0009 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 | 11/06/2020 | [0739 Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
-
+| 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
 
 ***
 ## Coding Style
@@ -76,6 +77,14 @@
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 
 ***
+### Hash Table
+| Number | Title       | Note|
+| -------|:-------------:|:------:|
+|  0001  | [Two Sum](https://leetcode.com/problems/two-sum/)| similar as threeSum but different method|
+
+
+***
+
 ### Linked List
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
@@ -106,4 +115,10 @@
 |  0003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 |  0005  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 |  0008  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+
+***
+### Two Pointers
+| Number | Title       |
+| -------|:-------------:|
+|  0015  | [3Sum](https://leetcode.com/problems/3sum/)
 
