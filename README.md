@@ -37,6 +37,7 @@
 | 10/06/2020 | [0009 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 | 11/06/2020 | [0739 Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
 | 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
+| 16/06/2020 | [0297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 ***
 ## Coding Style
@@ -74,6 +75,7 @@
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
 |  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+|  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of 0102 (BFS applied)
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 
 ***
