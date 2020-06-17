@@ -38,6 +38,7 @@
 | 11/06/2020 | [0739 Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
 | 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
 | 16/06/2020 | [0297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+| 17/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
 
 ***
 ## Coding Style
@@ -101,6 +102,7 @@
 |  0007  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 |  0009  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 |  0050  | [Pow(x, n) ](https://leetcode.com/problems/powx-n/)|[Using merge sort / binary (@krahets)](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-qing-xi-tu-jie-by-jyd/)
+|  1014  | [Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)| O(n^2) will exceed time limit, O(n) method used here
 
 ***
 ### Stack
