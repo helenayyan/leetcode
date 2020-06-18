@@ -25,6 +25,7 @@
  （整理的非常细致的一些可以通用的算法框架，可以适当背下来。）
 ***
 ## My Coding Challenge Diary (2020)
+
 | Date       | Title        |
 | ------------- |:-------------:|
 | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
@@ -39,6 +40,7 @@
 | 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
 | 16/06/2020 | [0297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 | 17/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
+| 18/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
 
 ***
 ## Coding Style
@@ -75,9 +77,11 @@
 | -------|:-------------:|:-----:|
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
+|  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
 |  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-|  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of 0102 (BFS applied)
+|  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+|  1028  | [Recover a Tree from Preorder Traversal](https://leetcode.com/problems/subtree-of-another-tree/)| deserialize Binary Tree from a Preorder Traversal string (Serialize: [0144](binary_search_tree/0144_binary_tree_preorder_traversal.py)
 
 ***
 ### Hash Table
