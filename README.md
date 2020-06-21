@@ -40,7 +40,8 @@
 | 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
 | 16/06/2020 | [0297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 | 17/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
-| 18/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
+| 18/06/2020 | [1028 Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+| 21/06/2020 | [0124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ***
 ## Coding Style
@@ -75,13 +76,16 @@
 ### Binary Search Tree
 | Number | Title       | Note|
 | -------|:-------------:|:-----:|
+|  0094  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
+|  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
+|  0145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| similar code as 'preorder' with reversed stacking order
 |  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 |  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-|  1028  | [Recover a Tree from Preorder Traversal](https://leetcode.com/problems/subtree-of-another-tree/)| deserialize Binary Tree from a Preorder Traversal string (Serialize: [0144](binary_search_tree/0144_binary_tree_preorder_traversal.py)
+|  1028  | [Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)| deserialize Binary Tree from a Preorder Traversal string (Serialize: [0144](binary_search_tree/0144_binary_tree_preorder_traversal.py)
 
 ***
 ### Hash Table

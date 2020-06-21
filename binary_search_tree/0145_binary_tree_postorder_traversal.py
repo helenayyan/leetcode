@@ -6,7 +6,7 @@ input: [1,null,2,3]
     /
    3
 
-output: [1,2,3]
+output: [3, 2, 1]
 """
 # Definition for a binary tree node.
 from typing import List
@@ -20,7 +20,7 @@ class TreeNode:
 
 
 class Solution:
-    def preorderTraversal(self, root: TreeNode) -> List[int]:
+    def postorderTraversal(self, root: TreeNode) -> List[int]:
         res = []
         level = []
         if not root:
@@ -30,6 +30,6 @@ class Solution:
             node = level.pop()
             if node:
                 res.append(node.val)
-                level.append(node.right)
                 level.append(node.left)
-        return res
+                level.append(node.right)
+        return res[::-1]
