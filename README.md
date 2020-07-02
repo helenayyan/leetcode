@@ -42,6 +42,8 @@
 | 17/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
 | 18/06/2020 | [1028 Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
 | 21/06/2020 | [0124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+| 01/07/2020 | [0718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+| 02/07/2020 | [0378 kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 ***
 ## Coding Style
@@ -66,6 +68,7 @@
 | -------|:-------------:|:----------------------:|
 |  0035  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Extension of 0704|
 |  0069  | [Square root of x](https://leetcode.com/problems/sqrtx/) | This question can also use *f(x)= x^2 - a* (牛顿迭代法）|
+|  0378  | [kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Binary Search (first method) is faster than using stack and makes full use of the characteristic of matrix|
 |  0704  | [Binary Search](https://leetcode.com/problems/binary-search/)
 
 #### General solutions for binary search:
@@ -86,6 +89,14 @@
 |  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 |  1028  | [Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)| deserialize Binary Tree from a Preorder Traversal string (Serialize: [0144](binary_search_tree/0144_binary_tree_preorder_traversal.py)
+
+***
+
+### Dynamic Programming
+| Number | Title       | Note|
+| -------|:-------------:|:------:|
+|  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
+
 
 ***
 ### Hash Table
