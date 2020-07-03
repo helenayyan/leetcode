@@ -27,7 +27,7 @@
 ## My Coding Challenge Diary (2020)
 
 | Date       | Title        |
-| ------------- |:-------------:|
+| ------------- |:-------------|
 | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 | 06/05/2020 | [0572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 | 09/05/2020 | [0069 Square root of x](https://leetcode.com/problems/sqrtx/)
@@ -44,6 +44,7 @@
 | 21/06/2020 | [0124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 | 01/07/2020 | [0718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 | 02/07/2020 | [0378 kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+| 03/07/2020 | [0108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ***
 ## Coding Style
@@ -82,6 +83,7 @@
 |  0094  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
+|  0108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| recursion with reversed inorder traversal
 |  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
 |  0145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| similar code as 'preorder' with reversed stacking order
