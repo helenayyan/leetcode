@@ -45,7 +45,7 @@
 | 01/07/2020 | [0718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 | 02/07/2020 | [0378 kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 | 03/07/2020 | [0108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-
+| 04/07/2020 | [0032 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 ***
 ## Coding Style
 | Language       | Style        |
@@ -129,6 +129,7 @@
 ### Stack
 | Number | Title       |
 | -------|:-------------:|
+|  0032  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 |  0155  | [Min Stack](https://leetcode.com/problems/min-stack/)
 |  0739  | [Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
 
