@@ -4,6 +4,7 @@
 ###### User name: yy452
 ***
 ## Navigator
+- [My Personal Blog](#my-personal-blog)
 - [Useful Resources](#useful-resources)
 - [My Coding Challenge Diary (2020)](#my-coding-challenge-diary--2020)
 - [Coding Style](#coding-style)
@@ -103,6 +104,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 |  1028  | [Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)| deserialize Binary Tree from a Preorder Traversal string (Serialize: [0144](binary_search_tree/0144_binary_tree_preorder_traversal.py)
 
+#### Documentation:
+- [Binary Tree Traversal](binary_search_tree/binary_tree.md): Four different methods to traverse a binary search tree
 ***
 
 ### Dynamic Programming

@@ -164,7 +164,7 @@ class Solution:
 #### Algorithms: DFS(stack)
 
 ```python
-class Solution
+class Solution:
   def levelOrder(self, root: TreeNode) -> List[[int]]:
       # if the tree is empty
       if not root:
