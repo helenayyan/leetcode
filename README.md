@@ -55,6 +55,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 08/07/2020 | [0112 Path Sum](https://leetcode.com/problems/path-sum/)
 | 10/07/2020 | [0309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 | 11/07/2020 | [0315 Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+| 12/07/2020 | [0174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+| 13/07/2020 | [0350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 ***
 ## Coding Style
@@ -113,12 +115,17 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | -------|:-------------:|:------:|
 |  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 |  0309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|
+|  0309  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)| reversed dp from end to start
 
+#### Documentation:
+- [DP Classify and Summarize](https://zhuanlan.zhihu.com/p/126546914?utm_source=wechat_session&utm_medium=social&utm_oi=27134168924160%E3%80%82)
 ***
 ### Hash Table
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
 |  0001  | [Two Sum](https://leetcode.com/problems/two-sum/)| similar as threeSum but different method|
+|  0349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|similar as 0350 with set() used to print same element only once|
+|  0350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|collections.Counter() and & used to print also duplicate elements|
 
 
 ***
