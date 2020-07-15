@@ -57,6 +57,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 11/07/2020 | [0315 Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 | 12/07/2020 | [0174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
 | 13/07/2020 | [0350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+| 14/07/2020 | [0120 Triangle](https://leetcode.com/problems/triangle/)
+| 15/07/2020 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 
 ***
 ## Coding Style
@@ -113,9 +115,12 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ### Dynamic Programming
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
-|  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
+|  0095  | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| further extension of [0096](dynamic_programming/0096_unique_binary_search_trees)
+|  0096  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| Counting DP/ Math: Catalan Num
+|  0120  | [triangle](https://leetcode.com/problems/triangle/)| Linear DP classic problems: Four different methods
+|  0174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)| reversed dp from end to start
 |  0309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|
-|  0309  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)| reversed dp from end to start
+|  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 
 #### Documentation:
 - [DP Classify and Summarize](https://zhuanlan.zhihu.com/p/126546914?utm_source=wechat_session&utm_medium=social&utm_oi=27134168924160%E3%80%82)
