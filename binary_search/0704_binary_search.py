@@ -14,7 +14,7 @@
 def search(nums: [int], target: int) -> int:
     left = 0
     right = len(nums) - 1
-    while left < right:
+    while left <= right:
         # take left-mid
         """重点：to avoid （left + right） overflow from the range of numbers"""
         mid = left + (right - left) // 2
@@ -26,8 +26,5 @@ def search(nums: [int], target: int) -> int:
             left = mid + 1
         else:
             right = mid - 1
-    # double-check if target is in the list or not
-    if nums[left] == target:
-        return left
-    else:
-        return -1
+
+    return -1
