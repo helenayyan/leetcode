@@ -62,6 +62,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 15/07/2020 | [0096 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 | 16/07/2020 | [0785 Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
 | 18/07/2020 | [0097 Interleaving String](https://leetcode.com/problems/interleaving-string/)
+| 19/07/2020 | [0312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+| 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ***
 ## Coding Style
@@ -124,6 +126,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0120  | [triangle](https://leetcode.com/problems/triangle/)| Linear DP classic problems: Four different methods
 |  0174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)| reversed dp from end to start
 |  0309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|
+|  0312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)|
 |  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 
 #### Documentation:
@@ -183,4 +186,5 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Number | Title       |
 | -------|:-------------:|
 |  0015  | [3Sum](https://leetcode.com/problems/3sum/)
+|  0167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
