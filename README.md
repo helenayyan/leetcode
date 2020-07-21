@@ -64,6 +64,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 18/07/2020 | [0097 Interleaving String](https://leetcode.com/problems/interleaving-string/)
 | 19/07/2020 | [0312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 | 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+| 21/07/2020 | [0044 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 
 ***
 ## Coding Style
@@ -120,6 +121,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ### Dynamic Programming
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
+|  0044  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|classic
 |  0095  | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| further extension of [0096](dynamic_programming/0096_unique_binary_search_trees)
 |  0096  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| Counting DP/ Math: Catalan Num
 |  0097  | [Interleaving String](https://leetcode.com/problems/interleaving-string/)| linear DP 
@@ -128,7 +130,6 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|
 |  0312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)|
 |  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
-
 #### Documentation:
 - [DP Classify and Summarize](https://zhuanlan.zhihu.com/p/126546914?utm_source=wechat_session&utm_medium=social&utm_oi=27134168924160%E3%80%82)
 ***
