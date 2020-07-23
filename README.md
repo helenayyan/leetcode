@@ -65,6 +65,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 19/07/2020 | [0312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 | 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 | 21/07/2020 | [0044 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+| 23/07/2020 | [0064 Minimum Path Sum](https://leetcode.com/problems/wminimum-path-sum/)
 
 ***
 ## Coding Style
@@ -122,6 +123,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
 |  0044  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|classic
+|  0063  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|similar as 0064, matrix dp
+|  0064  | [Minimum Path Sum](https://leetcode.com/problems/wminimum-path-sum/)|easier version of Dungeon Game
 |  0095  | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| further extension of [0096](dynamic_programming/0096_unique_binary_search_trees)
 |  0096  | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| Counting DP/ Math: Catalan Num
 |  0097  | [Interleaving String](https://leetcode.com/problems/interleaving-string/)| linear DP 
