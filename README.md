@@ -66,6 +66,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 | 21/07/2020 | [0044 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 | 23/07/2020 | [0064 Minimum Path Sum](https://leetcode.com/problems/wminimum-path-sum/)
+| 26/07/2020 | [0329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
 ***
 ## Coding Style
@@ -139,6 +140,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ### Graph
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
+|  0329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| decorator used
 |  0785  | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)| bfs method applied
 ***
 
