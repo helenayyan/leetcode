@@ -23,7 +23,7 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 ***
 ## My Personal Blog
-####[helenayy.tech](http://helenayy.tech)
+#### [helenayy.tech](http://helenayy.tech)
 Welcome to visit my personal blog page. You can find my documentations of data structures and other interesting articles onto it. :)
 
 ***
@@ -33,7 +33,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ***
 ## My Coding Challenge Diary (2020)
 <details>
-    <summary>May - July</summary>
+    <summary>May</summary>
 
 | Date       | Title        |
 | ------------- |:-------------|
@@ -44,6 +44,14 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 11/05/2020 | [0050 Pow(x, n) ](https://leetcode.com/problems/powx-n/)
 | 12/05/2020 | [0155 Min Stack](https://leetcode.com/problems/min-stack/)
 | 13/05/2020 | [0102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+</details>
+
+<details>
+    <summary>June</summary>
+
+| Date       | Title        |
+| ------------- |:-------------|
 | 10/06/2020 | [0009 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 | 11/06/2020 | [0739 Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
 | 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
@@ -73,6 +81,41 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 </details>
 
+<details>
+    <summary>July</summary>
+
+| Date       | Title        |
+| ------------- |:-------------|
+| 01/07/2020 | [0718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+| 02/07/2020 | [0378 kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+| 03/07/2020 | [0108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+| 04/07/2020 | [0032 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+| 08/07/2020 | [0112 Path Sum](https://leetcode.com/problems/path-sum/)
+| 10/07/2020 | [0309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+| 11/07/2020 | [0315 Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+| 12/07/2020 | [0174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+| 13/07/2020 | [0350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+| 14/07/2020 | [0120 Triangle](https://leetcode.com/problems/triangle/)
+| 15/07/2020 | [0096 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+| 16/07/2020 | [0785 Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
+| 18/07/2020 | [0097 Interleaving String](https://leetcode.com/problems/interleaving-string/)
+| 19/07/2020 | [0312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+| 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+| 21/07/2020 | [0044 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+| 23/07/2020 | [0064 Minimum Path Sum](https://leetcode.com/problems/wminimum-path-sum/)
+| 26/07/2020 | [0329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+| 27/07/2020 | [0392 Is Subsequence](https://leetcode.com/problems/is_subsequence/)
+
+</details>
+
+<details>
+    <summary>August</summary>
+
+| Date       | Title        |
+| ------------- |:-------------|
+| 02/08/2020 | [0114 Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+</details>
 ***
 ## Coding Style
 | Language       | Style        |
@@ -81,8 +124,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ***
 
 ## Questions by Category
-######I use both the US and Chinese website of Leetcode, therefore there are questions uploaded to both version.
-######The number and title of each questions is consistent and the web pages of the original question are linked below as well.
+###### I use both the US and Chinese website of Leetcode, therefore there are questions uploaded to both version.
+###### The number and title of each questions is consistent and the web pages of the original question are linked below as well.
 
 ### Array
 | Number | Title       |
@@ -112,6 +155,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
 |  0108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| recursion with reversed inorder traversal
 |  0112  | [Path Sum](https://leetcode.com/problems/path-sum/)| easy recursion
+|  0114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| preorder while deserialize
 |  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
 |  0145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| similar code as 'preorder' with reversed stacking order
