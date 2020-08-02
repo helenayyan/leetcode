@@ -32,41 +32,46 @@ Welcome to visit my personal blog page. You can find my documentations of data s
  （整理的非常细致的一些可以通用的算法框架，可以适当背下来。）
 ***
 ## My Coding Challenge Diary (2020)
+<details>
+    <summary>May - July</summary>
 
-| Date       | Title        |
-| ------------- |:-------------|
-| 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
-| 06/05/2020 | [0572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-| 09/05/2020 | [0069 Square root of x](https://leetcode.com/problems/sqrtx/)
-| 10/05/2020 | [0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-| 11/05/2020 | [0050 Pow(x, n) ](https://leetcode.com/problems/powx-n/)
-| 12/05/2020 | [0155 Min Stack](https://leetcode.com/problems/min-stack/)
-| 13/05/2020 | [0102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-| 10/06/2020 | [0009 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-| 11/06/2020 | [0739 Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
-| 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
-| 16/06/2020 | [0297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-| 17/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
-| 18/06/2020 | [1028 Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
-| 21/06/2020 | [0124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-| 01/07/2020 | [0718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
-| 02/07/2020 | [0378 kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-| 03/07/2020 | [0108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-| 04/07/2020 | [0032 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
-| 08/07/2020 | [0112 Path Sum](https://leetcode.com/problems/path-sum/)
-| 10/07/2020 | [0309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-| 11/07/2020 | [0315 Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-| 12/07/2020 | [0174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
-| 13/07/2020 | [0350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-| 14/07/2020 | [0120 Triangle](https://leetcode.com/problems/triangle/)
-| 15/07/2020 | [0096 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
-| 16/07/2020 | [0785 Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
-| 18/07/2020 | [0097 Interleaving String](https://leetcode.com/problems/interleaving-string/)
-| 19/07/2020 | [0312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
-| 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-| 21/07/2020 | [0044 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
-| 23/07/2020 | [0064 Minimum Path Sum](https://leetcode.com/problems/wminimum-path-sum/)
-| 26/07/2020 | [0329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+    | Date       | Title        |
+    | ------------- |:-------------|
+    | 04/05/2020 | [0098 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+    | 06/05/2020 | [0572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+    | 09/05/2020 | [0069 Square root of x](https://leetcode.com/problems/sqrtx/)
+    | 10/05/2020 | [0236 Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+    | 11/05/2020 | [0050 Pow(x, n) ](https://leetcode.com/problems/powx-n/)
+    | 12/05/2020 | [0155 Min Stack](https://leetcode.com/problems/min-stack/)
+    | 13/05/2020 | [0102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+    | 10/06/2020 | [0009 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+    | 11/06/2020 | [0739 Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
+    | 12/06/2020 | [0015 3Sum](https://leetcode.com/problems/3sum/)
+    | 16/06/2020 | [0297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+    | 17/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
+    | 18/06/2020 | [1028 Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+    | 21/06/2020 | [0124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+    | 01/07/2020 | [0718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+    | 02/07/2020 | [0378 kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+    | 03/07/2020 | [0108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+    | 04/07/2020 | [0032 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+    | 08/07/2020 | [0112 Path Sum](https://leetcode.com/problems/path-sum/)
+    | 10/07/2020 | [0309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+    | 11/07/2020 | [0315 Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+    | 12/07/2020 | [0174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+    | 13/07/2020 | [0350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+    | 14/07/2020 | [0120 Triangle](https://leetcode.com/problems/triangle/)
+    | 15/07/2020 | [0096 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+    | 16/07/2020 | [0785 Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
+    | 18/07/2020 | [0097 Interleaving String](https://leetcode.com/problems/interleaving-string/)
+    | 19/07/2020 | [0312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+    | 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+    | 21/07/2020 | [0044 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+    | 23/07/2020 | [0064 Minimum Path Sum](https://leetcode.com/problems/wminimum-path-sum/)
+    | 26/07/2020 | [0329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+    | 27/07/2020 | [0392 Is Subsequence](https://leetcode.com/problems/is_subsequence/)
+
+</details>
 
 ***
 ## Coding Style
@@ -193,4 +198,5 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | -------|:-------------:|
 |  0015  | [3Sum](https://leetcode.com/problems/3sum/)
 |  0167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+|  0392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
