@@ -114,6 +114,10 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Date       | Title        |
 | ------------- |:-------------|
 | 02/08/2020 | [0114 Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+| 03/08/2020 | [0405 Add String](https://leetcode.com/problems/add-string/)
+| 04/08/2020 | [0207 Course Schedule](https://leetcode.com/problems/course-schedule/)
+| 05/08/2020 | [0337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
+| 06/08/2020 | [0336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
 
 </details>
 ***
@@ -180,8 +184,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0097  | [Interleaving String](https://leetcode.com/problems/interleaving-string/)| linear DP 
 |  0120  | [triangle](https://leetcode.com/problems/triangle/)| Linear DP classic problems: Four different methods
 |  0174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)| reversed dp from end to start
+|  0198  | [House Robber](https://leetcode.com/problems/house-robber/)| 
+|  0213  | [House Robber II](https://leetcode.com/problems/house-robber-ii/)| looped list: start-end connected
 |  0309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|
 |  0312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)|
+|  0337  | [House Robber III](https://leetcode.com/problems/house-robber-iii/)| binary tree dfs
 |  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 #### Documentation:
 - [DP Classify and Summarize](https://zhuanlan.zhihu.com/p/126546914?utm_source=wechat_session&utm_medium=social&utm_oi=27134168924160%E3%80%82)
@@ -189,6 +196,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ### Graph
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
+|  0207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)| decorator used
 |  0329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| decorator used
 |  0785  | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)| bfs method applied
 ***
@@ -231,10 +239,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ***
 ### String
 | Number | Title       |
-| -------|:-------------:|
+| -------|:-------------:|:----|
 |  0003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 |  0005  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 |  0008  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+|  0336  | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |hash table used |
 
 ***
 ### Two Pointers
