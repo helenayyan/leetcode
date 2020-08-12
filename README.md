@@ -19,6 +19,9 @@
   * [Math](#math)
   * [Stack](#stack)
   * [String](#string)
+  * [Two Pointers](#two-pointers)
+  * [Union Find](#union-find)
+
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 ***
@@ -118,6 +121,12 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 04/08/2020 | [0207 Course Schedule](https://leetcode.com/problems/course-schedule/)
 | 05/08/2020 | [0337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
 | 06/08/2020 | [0336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+| 07/08/2020 | [0100 Same Tree](https://leetcode.com/problems/same-tree/)
+| 08/08/2020 | [0099 Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+| 09/08/2020 | [0093 Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+| 10/08/2020 | [0696 Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+| 11/08/2020 | [0130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+| 12/08/2020 | [0133 Clone Graph](https://leetcode.com/problems/clone-graph/)
 
 </details>
 ***
@@ -156,6 +165,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | -------|:-------------:|:-----:|
 |  0094  | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 |  0098  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+|  0099  | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+|  0100  | [Same Tree](https://leetcode.com/problems/same-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
 |  0108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| recursion with reversed inorder traversal
 |  0112  | [Path Sum](https://leetcode.com/problems/path-sum/)| easy recursion
@@ -196,6 +207,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ### Graph
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
+|  0133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)| dfs with hashtable
 |  0207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)| decorator used
 |  0329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| decorator used
 |  0785  | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)| bfs method applied
@@ -243,7 +255,9 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 |  0005  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 |  0008  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+|  0008  | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 |  0336  | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |hash table used |
+|  0696  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
 
 ***
 ### Two Pointers
@@ -253,3 +267,9 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 |  0392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
+***
+### Union Find
+| Number | Title       |
+| -------|:-------------:|:----:|
+|  0130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | BFS used; union-find method to be added
+|  0200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | BFS used; union-find method to be added
