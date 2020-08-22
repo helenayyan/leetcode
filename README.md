@@ -127,6 +127,16 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 10/08/2020 | [0696 Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
 | 11/08/2020 | [0130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
 | 12/08/2020 | [0133 Clone Graph](https://leetcode.com/problems/clone-graph/)
+| 13/08/2020 | [0043 Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+| 14/08/2020 | [0020 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+| 15/08/2020 | [0546 Remove Boxes](https://leetcode.com/problems/remove-boxes/)
+| 16/08/2020 | [0733 Flood Fill](https://leetcode.com/problems/flood-fill/)
+| 17/08/2020 | [0110 Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+| 18/08/2020 | [0109 Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+| 19/08/2020 | [0647 Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+| 20/08/2020 | [0529 Minesweeper](https://leetcode.com/problems/minesweeper/)
+| 21/08/2020 | [0111 Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+| 22/08/2020 | [0679 24 Game](https://leetcode.com/problems/24-game/)
 
 </details>
 ***
@@ -169,6 +179,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0100  | [Same Tree](https://leetcode.com/problems/same-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
 |  0108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| recursion with reversed inorder traversal
+|  0110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+|  0111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 |  0112  | [Path Sum](https://leetcode.com/problems/path-sum/)| easy recursion
 |  0114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| preorder while deserialize
 |  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
@@ -200,6 +212,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|
 |  0312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)|
 |  0337  | [House Robber III](https://leetcode.com/problems/house-robber-iii/)| binary tree dfs
+|  0546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/)
 |  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 #### Documentation:
 - [DP Classify and Summarize](https://zhuanlan.zhihu.com/p/126546914?utm_source=wechat_session&utm_medium=social&utm_oi=27134168924160%E3%80%82)
@@ -210,6 +223,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)| dfs with hashtable
 |  0207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)| decorator used
 |  0329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| decorator used
+|  0529  | [Minesweeper](https://leetcode.com/problems/minesweeper/)| dfs
+|  0733  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | dfs
 |  0785  | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)| bfs method applied
 ***
 
@@ -227,6 +242,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
 |  0092  | [Reversed Linked List II](https://leetcode.com/problems/reversed-linked-list-ii/)| Integrated with the method in 0206 reversed linked list|
+|  0109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 |  0206  | [Reversed Linked List](https://leetcode.com/problems/reversed-linked-list/)|
 
 
@@ -237,6 +253,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0007  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 |  0009  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 |  0050  | [Pow(x, n) ](https://leetcode.com/problems/powx-n/)|[Using merge sort / binary (@krahets)](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-qing-xi-tu-jie-by-jyd/)
+|  0679  | [24 Game](https://leetcode.com/problems/24-game/)|
 |  1014  | [Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)| O(n^2) will exceed time limit, O(n) method used here
 
 ***
@@ -255,8 +272,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 |  0005  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 |  0008  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-|  0008  | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+|  0013  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+|  0020  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+|  0093  | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 |  0336  | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |hash table used |
+|  0647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |dynamic programming|
 |  0696  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
 
 ***
