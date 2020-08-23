@@ -13,6 +13,8 @@
   * [Binary Search](#binary-search)
     + [General solutions for binary search:](#general-solutions-for-binary-search)
   * [Binary Search Tree](#binary-search-tree)
+  * [Bit Manipulation](#bit-manipulation)
+  * [Dynamic Programming](#dynamic-programming)
   * [Graph](#graph)
   * [Hash Table](#hash-table)
   * [Linked List](#linked-list)
@@ -137,6 +139,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 20/08/2020 | [0529 Minesweeper](https://leetcode.com/problems/minesweeper/)
 | 21/08/2020 | [0111 Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 | 22/08/2020 | [0679 24 Game](https://leetcode.com/problems/24-game/)
+| 23/08/2020 | [0201 Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
 
 </details>
 ***
@@ -194,6 +197,15 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 #### Documentation:
 - [Binary Tree Traversal](binary_search_tree/binary_tree.md): Four different methods to traverse a binary search tree
+
+
+***
+### Bit Manipulation
+| Number | Title       |Note|
+| -------|:-------------:|:----------------------:|
+|  0201  | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |
+
+
 ***
 
 ### Dynamic Programming
