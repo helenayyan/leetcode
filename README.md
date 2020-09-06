@@ -64,25 +64,6 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 17/06/2020 | [1014 Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)
 | 18/06/2020 | [1028 Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
 | 21/06/2020 | [0124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-| 01/07/2020 | [0718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
-| 02/07/2020 | [0378 kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-| 03/07/2020 | [0108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-| 04/07/2020 | [0032 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
-| 08/07/2020 | [0112 Path Sum](https://leetcode.com/problems/path-sum/)
-| 10/07/2020 | [0309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-| 11/07/2020 | [0315 Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-| 12/07/2020 | [0174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
-| 13/07/2020 | [0350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-| 14/07/2020 | [0120 Triangle](https://leetcode.com/problems/triangle/)
-| 15/07/2020 | [0096 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
-| 16/07/2020 | [0785 Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
-| 18/07/2020 | [0097 Interleaving String](https://leetcode.com/problems/interleaving-string/)
-| 19/07/2020 | [0312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
-| 20/07/2020 | [0167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-| 21/07/2020 | [0044 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
-| 23/07/2020 | [0064 Minimum Path Sum](https://leetcode.com/problems/wminimum-path-sum/)
-| 26/07/2020 | [0329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
-| 27/07/2020 | [0392 Is Subsequence](https://leetcode.com/problems/is_subsequence/)
 
 </details>
 
@@ -140,6 +121,28 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 21/08/2020 | [0111 Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 | 22/08/2020 | [0679 24 Game](https://leetcode.com/problems/24-game/)
 | 23/08/2020 | [0201 Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+| 24/08/2020 | [0459 Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+| 25/08/2020 | [0491 Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)
+| 26/08/2020 | [0017 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+| 27/08/2020 | [0332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+| 28/08/2020 | [0657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+| 29/08/2020 | [0214 Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+| 30/08/2020 | [0557 Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+| 31/08/2020 | [0841 Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+
+
+</details>
+
+<details>
+    <summary>September</summary>
+
+| Date       | Title        |
+| ------------- |:-------------|
+| 01/09/2020 | [0107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+| 03/09/2020 | [0051 N Queens](https://leetcode.com/problems/n-queens/)
+| 04/09/2020 | [0257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+| 05/09/2020 | [0060 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+| 06/09/2020 | [0107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
 </details>
 ***
@@ -154,10 +157,17 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ###### The number and title of each questions is consistent and the web pages of the original question are linked below as well.
 
 ### Array
-| Number | Title       |
-| -------|:-------------:|
+| Number | Title       |Note|
+| -------|:-------------:|:-------------:|
 |  0014  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|
 |  0088  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
+|  0491  | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)| Depth-first Search
+***
+### Backtracking
+| Number | Title       |Note|
+| -------|:-------------:|:----------------------:|
+|  0051  | [N Queens](https://leetcode.com/problems/n-queens/) | 
+
 
 ***
 ### Binary Search
@@ -172,6 +182,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 - 知识点讲解(by @liweiwei1419)：
 ['用「排除法」（减治思想）写二分查找问题、与其它二分查找模板的比较'](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)
 ###### 重点：根据实际情况判断mid的归属， 不要死套模版
+
 ***
 ### Binary Search Tree
 | Number | Title       | Note|
@@ -181,6 +192,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0099  | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 |  0100  | [Same Tree](https://leetcode.com/problems/same-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
+|  0107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| similar as [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py)
 |  0108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| recursion with reversed inorder traversal
 |  0110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 |  0111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
@@ -190,6 +202,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
 |  0145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| similar code as 'preorder' with reversed stacking order
 |  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+|  0257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 |  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)
 |  0315  | [Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Extended exercise of binary search tree, need to record count and position
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
@@ -235,9 +248,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)| dfs with hashtable
 |  0207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)| decorator used
 |  0329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| decorator used
+|  0332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | dfs with sorted list needed
 |  0529  | [Minesweeper](https://leetcode.com/problems/minesweeper/)| dfs
 |  0733  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | dfs
 |  0785  | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)| bfs method applied
+|  0841  | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| dfs
 ***
 
 ### Hash Table
@@ -285,9 +300,13 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0005  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 |  0008  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 |  0013  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+|  0017  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 |  0020  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 |  0093  | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+|  0214  | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 |  0336  | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |hash table used |
+|  0459  | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+|  0557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 |  0647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |dynamic programming|
 |  0696  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
 

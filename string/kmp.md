@@ -82,11 +82,28 @@ With the help of the Partial Match Table `next`, we can then easily match the st
 ### Violent Algorithm
 Let' s first take a look at the violent algorithm when matching two strings.
 
-> Suppose we’re matching the pattern `p = abababca` against the text `s = bacbababaabcbab`
->For violent match, we use two pointers `i` and `j` and move them each along `s` and `p`, 
->   if current character match, i.e. `s[i] == p[j]`, `i` and `j` move along the string,
->   else, move `i` to the next search starting point `i - (j - 1)` and reset `j = 0`
->
+Suppose we’re matching the pattern `p = abababca` against the text `s = bacbababaabcbab`
+For violent match, we use two pointers `i` and `j` and move them each along `s` and `p`, 
+- if current character match, i.e. `s[i] == p[j]`, `i` and `j` move along the string,
+- else, move `i` to the next search starting point `i - (j - 1)` and reset `j = 0`
+
+1. i = 0, j = 0
+
+    s = bacbababaabcbab  (i = 0)
+        | (unmatch)
+    p = abababca (j = 0)
+
+i = i - j + 1 = 1, j = 0
+
+2. i = 1, j = 0
+
+    s = bacbababaabcbab  (i = 2)
+         || 
+    p =  abababca (j = 1)
+    
+3. i = 2, j = 0
+    ...
+    
 ```python
 def violent_match(s:str, p:str):
     s_len = len(s)
@@ -116,8 +133,82 @@ def violent_match(s:str, p:str):
 However, it is easily to notice that once unmatched, 
 if we move back both `i` and `j`, some known unmatched character need to be reconsider again.
 
-Therefore, the partial match tabble is introduced to skip these step and move the pointer to the next possible starting position.
+Therefore, the partial match table is introduced to skip these step and move the pointer to the next possible starting position.
 
 ### KMP Algorithm
- 
+Recall the Partial Match table of `p = abababca` ：
+
+    string: a b a b a b c a
+    index:  0 1 2 3 4 5 6 7
+    value:  0 0 1 2 3 4 0 1
+    
+Similarly, we use two pointers `i` and `j` and move them each along `s` and `p`.
+When moving the pointers, we use the values in the partial match table to skip ahead 
+rather than redoing unnecessary old comparisons following the formula:
+
+`position to be skipped = partial matched length - table[partial matched length - 1]` (`table[partial matched length] > 1`)
+
+1. The first partial match: i = 1, j = 0
+
+    s = bacbababaabcbab  (i = 2)
+         | 
+    p =  abababca (j = 1)
+
+`partial matched lenght = 1`, `table[partial matched length - 1]` (or `table[0]`) is `0`, so we don’t get to skip ahead any. 
+
+2. The next partial match:
+    
+    s = bacbababaabcbab  (i = 2)
+            ||||| 
+    p =     abababca (j = 1)
+    
+`partial matched lenght = 5`, `table[partial_match_length - 1]` (or `table[4]`) is `3`, 
+That means we get to skip ahead `partial matched length - table[partial matched length - 1]` (or `5 - table[4] = 2`) characters.
+
+3. Skip ahead 2 characters:
+
+    // x denotes a skip
+    s = bacbababaabcbab
+            xx|||
+    p =       abababca
+    
+This is a `partial matched length` of `3`. 
+The value at `table[partial_match_length - 1]` (or `table[2]`) is `1`. 
+That means we get to skip ahead `partial matched length - table[partial matched length - 1]` (or `3 - table[2]` or `2`) characters:
+
+3. Skip ahead again 2 characters:
+
+    // x denotes a skip
+    
+    s = bacbababaabcbab
+              xx|
+    p =         abababca
+    
+`j + len(p) > len(s)`, given no match.
+
+#### Code implementation
+
+```python
+def kmp_search(s: str, p: str, next: [int]):
+	i = 0
+	j = 0
+	s_len = len(s)
+	p_len = len(p)
+	while i < s_len and j < p_len:
+		# ①if j = -1, or s[i] == p[j], i++，j++    
+		if j == -1 or s[i] == p[j]:
+			i += 1
+			j += 1
+        else:
+            # ② if j != -1 and s[i] != p[j], i unchange and j = next[j]      
+            j = next[j]
+    if j == p_len:
+        return i - j
+    else:
+        return -1
+```
   
+## Reference
+> 1. http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/
+> 2. https://blog.csdn.net/v_JULY_v/article/details/7041827
+> 
