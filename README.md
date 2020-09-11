@@ -10,6 +10,7 @@
 - [Coding Style](#coding-style)
 - [Questions by Category](#questions-by-category)
   * [Array](#array)
+  * [Backtracking](#backtracking)
   * [Binary Search](#binary-search)
     + [General solutions for binary search:](#general-solutions-for-binary-search)
   * [Binary Search Tree](#binary-search-tree)
@@ -143,6 +144,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 04/09/2020 | [0257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 | 05/09/2020 | [0060 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 | 06/09/2020 | [0107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+| 07/09/2020 | [0347 Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+| 08/09/2020 | [0077 Combinations](https://leetcode.com/problems/combinations/)
+| 09/09/2020 | [0039 Combination Sum](https://leetcode.com/problems/combination-sum/)
+| 10/09/2020 | [0040 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+| 11/09/2020 | [0216 Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 
 </details>
 ***
@@ -166,7 +172,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ### Backtracking
 | Number | Title       |Note|
 | -------|:-------------:|:----------------------:|
+|  0039  | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 
+|  0040  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 
 |  0051  | [N Queens](https://leetcode.com/problems/n-queens/) | 
+|  0077  | [Combinations](https://leetcode.com/problems/combinations/) | 
+|  0216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 
 
 
 ***
@@ -259,6 +269,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
 |  0001  | [Two Sum](https://leetcode.com/problems/two-sum/)| similar as threeSum but different method|
+|  0347  | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|
 |  0349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|similar as 0350 with set() used to print same element only once|
 |  0350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|collections.Counter() and & used to print also duplicate elements|
 
