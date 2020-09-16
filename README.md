@@ -149,6 +149,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 09/09/2020 | [0039 Combination Sum](https://leetcode.com/problems/combination-sum/)
 | 10/09/2020 | [0040 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 | 11/09/2020 | [0216 Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+| 12/09/2020 | [0637 Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+| 13/09/2020 | [0079 Word Search](https://leetcode.com/problems/word-search/)
+| 14/09/2020 | [0094 Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+| 15/09/2020 | [0037 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+| 16/09/2020 | [0226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 </details>
 ***
@@ -166,6 +171,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Number | Title       |Note|
 | -------|:-------------:|:-------------:|
 |  0014  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|
+|  0079  | [Word Search](https://leetcode.com/problems/word-search/)
 |  0088  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
 |  0491  | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)| Depth-first Search
 ***
@@ -211,11 +217,13 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
 |  0145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| similar code as 'preorder' with reversed stacking order
+|  0226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 |  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 |  0257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 |  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)
 |  0315  | [Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Extended exercise of binary search tree, need to record count and position
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+|  0637  | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 |  1028  | [Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)| deserialize Binary Tree from a Preorder Traversal string (Serialize: [0144](binary_search_tree/0144_binary_tree_preorder_traversal.py)
 
 #### Documentation:
@@ -269,6 +277,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
 |  0001  | [Two Sum](https://leetcode.com/problems/two-sum/)| similar as threeSum but different method|
+|  0037  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| Classic: To be discussed more|
 |  0347  | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|
 |  0349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|similar as 0350 with set() used to print same element only once|
 |  0350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|collections.Counter() and & used to print also duplicate elements|
