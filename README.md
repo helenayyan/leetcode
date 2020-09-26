@@ -1,10 +1,15 @@
 # LeetCode
- This is a place to store and categorize all the past coding practices, mainly leetcode practice. 
+ This is a place to store and categorize my work on all the past LeetCode practices as well as documentations.
+ 
+ Feel free to have a look at it and please message me any questions or error noticed. 
+ 
+ Keep learning and practice hard! :) 
 
 ###### User name: yy452
 ***
 ## Navigator
 - [My Personal Blog](#my-personal-blog)
+- [My Documentations](#my-documentations)
 - [Useful Resources](#useful-resources)
 - [My Coding Challenge Diary (2020)](#my-coding-challenge-diary--2020)
 - [Coding Style](#coding-style)
@@ -12,7 +17,7 @@
   * [Array](#array)
   * [Backtracking](#backtracking)
   * [Binary Search](#binary-search)
-    + [General solutions for binary search:](#general-solutions-for-binary-search)
+    + [General solutions for binary search](#general-solutions-for-binary-search)
   * [Binary Search Tree](#binary-search-tree)
   * [Bit Manipulation](#bit-manipulation)
   * [Dynamic Programming](#dynamic-programming)
@@ -33,6 +38,14 @@
 Welcome to visit my personal blog page. You can find my documentations of data structures and other interesting articles onto it. :)
 
 ***
+## My Documentations
+
+- [Binary Search](binary_search/Binary%20Search.md)
+- [Binary Tree Traversal](binary_search_tree/binary_tree_traversal.md)
+- [Construct Binary Tree from Traversal](binary_search_tree/construct_binary_tree_from_traversal.md)
+- [Dynamic Programming](dynamic_programming/Dynamic%20Programming.md)
+- [KMP Algorithm](string/kmp.md)
+
 ## Useful Resources
 - [Leetcode 常见题型代码模版](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
  （整理的非常细致的一些可以通用的算法框架，可以适当背下来。）
@@ -154,6 +167,13 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 14/09/2020 | [0094 Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 | 15/09/2020 | [0037 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 | 16/09/2020 | [0226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+| 17/09/2020 | [0685 Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
+| 20/09/2020 | [0078 Subsets](https://leetcode.com/problems/subsets/)
+| 21/09/2020 | [0538 Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+| 23/09/2020 | [0617 Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+| 24/09/2020 | [0501 Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+| 25/09/2020 | [0106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+| 26/09/2020 | [0113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 
 </details>
 ***
@@ -182,6 +202,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0040  | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 
 |  0051  | [N Queens](https://leetcode.com/problems/n-queens/) | 
 |  0077  | [Combinations](https://leetcode.com/problems/combinations/) | 
+|  0078  | [Subsets](https://leetcode.com/problems/subsets/)
 |  0216  | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 
 
 
@@ -208,11 +229,14 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0099  | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
 |  0100  | [Same Tree](https://leetcode.com/problems/same-tree/)
 |  0102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| BFS model applied using queue
+|  0105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construction of binary tree series
+|  0106  | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| Construction of binary tree series
 |  0107  | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| similar as [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py)
 |  0108  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| recursion with reversed inorder traversal
 |  0110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 |  0111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 |  0112  | [Path Sum](https://leetcode.com/problems/path-sum/)| easy recursion
+|  0113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)| easy recursion
 |  0114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| preorder while deserialize
 |  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
@@ -222,12 +246,16 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 |  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)
 |  0315  | [Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Extended exercise of binary search tree, need to record count and position
+|  0501  | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Inorder travesal to save extra space from hashmap
+|  0538  | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Reversed inorder travesal
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+|  0617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 |  0637  | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+|  0889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)| Construction of binary tree series
 |  1028  | [Recover a Tree from Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)| deserialize Binary Tree from a Preorder Traversal string (Serialize: [0144](binary_search_tree/0144_binary_tree_preorder_traversal.py)
 
 #### Documentation:
-- [Binary Tree Traversal](binary_search_tree/binary_tree.md): Four different methods to traverse a binary search tree
+- [Binary Tree Traversal](binary_search_tree/binary_tree_traversal.md): Four different methods to traverse a binary search tree
 
 
 ***
@@ -314,7 +342,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 ***
 ### String
-| Number | Title       |
+| Number | Title       |Note|
 | -------|:-------------:|:----|
 |  0003  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 |  0005  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
@@ -340,7 +368,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 ***
 ### Union Find
-| Number | Title       |
+| Number | Title       |Note|
 | -------|:-------------:|:----:|
 |  0130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | BFS used; union-find method to be added
 |  0200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | BFS used; union-find method to be added
