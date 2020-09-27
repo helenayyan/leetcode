@@ -174,6 +174,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 24/09/2020 | [0501 Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
 | 25/09/2020 | [0106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 | 26/09/2020 | [0113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+| 27/09/2020 | [0235 Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 </details>
 ***
@@ -242,6 +243,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
 |  0145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| similar code as 'preorder' with reversed stacking order
 |  0226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+|  0235  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 |  0236  | [Lowest Common Ancestor of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 |  0257  | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 |  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)

@@ -1,5 +1,4 @@
-class List(object):
-    pass# Construct Binary Tree from Traversals
+# Construct Binary Tree from Traversals
 
 Following the methods of Binary Traversal, it is also important that we are familiar with how to reconstruct a binary tree given its different form of traversal.
 
