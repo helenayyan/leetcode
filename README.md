@@ -180,6 +180,17 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 30/09/2020 | [0701 Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 
 </details>
+
+<details>
+    <summary>October</summary>
+
+| Date       | Title        |
+| ------------- |:-------------|
+| 02/10/2020 | [0771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+| 03/10/2020 | [0001 Two Sum](https://leetcode.com/problems/two-sum/)
+| 04/10/2020 | [0002 Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+</details>
 ***
 ## Coding Style
 | Language       | Style        |
