@@ -46,9 +46,12 @@ class Solution:
                 left = mid + 1
         return left
 
+
 """
     Second method: two stack: slower than the first one
 """
+
+
 class Solution2:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
         res_stack = []

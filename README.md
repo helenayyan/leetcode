@@ -189,6 +189,10 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 02/10/2020 | [0771 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 | 03/10/2020 | [0001 Two Sum](https://leetcode.com/problems/two-sum/)
 | 04/10/2020 | [0002 Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+| 05/10/2020 | [0018 4Sum](https://leetcode.com/problems/4sum/)
+| 07/10/2020 | [0075 Sort Colors](https://leetcode.com/problems/sort-colors/)
+| 08/10/2020 | [0344 Reverse String](https://leetcode.com/problems/reverse-string/)
+| 09/10/2020 | [0141 linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 </details>
 ***
@@ -336,6 +340,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | -------|:-------------:|:------:|
 |  0092  | [Reversed Linked List II](https://leetcode.com/problems/reversed-linked-list-ii/)| Integrated with the method in 0206 reversed linked list|
 |  0109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+|  0141  | [linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ｜ fast-slow pointers to achieve space complexity O(1)
+|  0142  | [linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) ｜ fast-slow pointers with math prove to return the start node
 |  0206  | [Reversed Linked List](https://leetcode.com/problems/reversed-linked-list/)|
 
 
@@ -378,9 +384,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 ***
 ### Two Pointers
-| Number | Title       |
-| -------|:-------------:|
+| Number | Title       |Note|
+| -------|:-------------:|:----:|
 |  0015  | [3Sum](https://leetcode.com/problems/3sum/)
+|  0018  | [4Sum](https://leetcode.com/problems/4sum/)
+|  0075  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | quick sort partition design
 |  0167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 |  0392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
