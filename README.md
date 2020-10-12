@@ -25,6 +25,7 @@
   * [Hash Table](#hash-table)
   * [Linked List](#linked-list)
   * [Math](#math)
+  * [Sorting](#sorting)
   * [Stack](#stack)
   * [String](#string)
   * [Two Pointers](#two-pointers)
@@ -48,7 +49,9 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 ## Useful Resources
 - [Leetcode 常见题型代码模版](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
- （整理的非常细致的一些可以通用的算法框架，可以适当背下来。）
+> (In Chinese)整理的非常细致的一些可以通用的算法框架，可以适当背下来。
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+> A website that provides algorithms visualizations, really good animations for understanding the algorithms.
 ***
 ## My Coding Challenge Diary (2020)
 <details>
@@ -193,6 +196,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 07/10/2020 | [0075 Sort Colors](https://leetcode.com/problems/sort-colors/)
 | 08/10/2020 | [0344 Reverse String](https://leetcode.com/problems/reverse-string/)
 | 09/10/2020 | [0141 linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+| 11/10/2020 | [0416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+| 12/10/2020 | [0530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
 </details>
 ***
@@ -268,6 +273,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Extension of [0102](binary_search_tree/0102_binary_tree_level_order_traversal.py) (iteration)
 |  0315  | [Count of Smaller Numbers after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Extended exercise of binary search tree, need to record count and position
 |  0501  | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Inorder travesal to save extra space from hashmap
+|  0530  | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Inorder travesal to while calculating absolute difference
 |  0538  | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Reversed inorder travesal
 |  0572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 |  0617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
@@ -305,6 +311,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|
 |  0312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)|
 |  0337  | [House Robber III](https://leetcode.com/problems/house-robber-iii/)| binary tree dfs
+|  0416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)| Classic NP, NOTE!
 |  0546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/)
 |  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 #### Documentation:
@@ -354,6 +361,13 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0050  | [Pow(x, n) ](https://leetcode.com/problems/powx-n/)|[Using merge sort / binary (@krahets)](https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-qing-xi-tu-jie-by-jyd/)
 |  0679  | [24 Game](https://leetcode.com/problems/24-game/)|
 |  1014  | [Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)| O(n^2) will exceed time limit, O(n) method used here
+
+***
+### Sorting
+| Number | Title       |
+| -------|:-------------:|
+|  0032  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+
 
 ***
 ### Stack
