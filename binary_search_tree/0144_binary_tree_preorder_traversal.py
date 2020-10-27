@@ -20,7 +20,7 @@ class TreeNode:
 
 
 class Solution:
-    def preorderTraversal(self, root: TreeNode) -> List[int]:
+    def preorderTraversal_bfs(self, root: TreeNode) -> List[int]:
         res = []
         level = []
         if not root:
@@ -32,4 +32,21 @@ class Solution:
                 res.append(node.val)
                 level.append(node.right)
                 level.append(node.left)
+        return res
+
+    def preorderTraversal_dfs(self, root: TreeNode) -> List[int]:
+        res = []
+        if not root:
+            return res
+
+        def dfs(node):
+            nonlocal res
+            if not node:
+                return
+
+            res.append(node.val)
+            dfs(node.left)
+            dfs(node.right)
+
+        dfs(root)
         return res

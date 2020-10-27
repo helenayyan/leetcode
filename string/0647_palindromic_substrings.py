@@ -32,6 +32,8 @@ class Solution:
                 res += 1
 
         for i in range(n):
-            helper(i, i)
-            helper(i, i + 1)
+            helper(i, i)  # odd number
+            helper(i, i + 1)  # even number
         return res
+
+

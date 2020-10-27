@@ -198,6 +198,21 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 09/10/2020 | [0141 linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 | 11/10/2020 | [0416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 | 12/10/2020 | [0530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+| 13/10/2020 | [0024 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+| 14/10/2020 | [1002 Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+| 15/10/2020 | [0116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+| 16/10/2020 | [0116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+| 17/10/2020 | [0116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+| 18/10/2020 | [0116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+| 19/10/2020 | [0116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+| 20/10/2020 | [0143 Reorder List](https://leetcode.com/problems/Reorder-list/)
+| 21/10/2020 | [0925 Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+| 22/10/2020 | [0763 Partition Labels](https://leetcode.com/problems/partition-labels/)
+| 23/10/2020 | [0234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+| 24/10/2020 | [0845 Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+| 25/10/2020 | [1024 Video Stitching](https://leetcode.com/problems/video-stitching/)
+| 26/10/2020 | [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+| 27/10/2020 | [0144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 </details>
 ***
@@ -218,7 +233,10 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0079  | [Word Search](https://leetcode.com/problems/word-search/)
 |  0088  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
 |  0491  | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)| Depth-first Search
+|  1365  | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|hashmap and sorting
+
 ***
+
 ### Backtracking
 | Number | Title       |Note|
 | -------|:-------------:|:----------------------:|
@@ -231,6 +249,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 
 ***
+
 ### Binary Search
 | Number | Title       |Note|
 | -------|:-------------:|:----------------------:|
@@ -245,6 +264,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ###### 重点：根据实际情况判断mid的归属， 不要死套模版
 
 ***
+
 ### Binary Search Tree
 | Number | Title       | Note|
 | -------|:-------------:|:-----:|
@@ -262,6 +282,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0112  | [Path Sum](https://leetcode.com/problems/path-sum/)| easy recursion
 |  0113  | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)| easy recursion
 |  0114  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| preorder while deserialize
+|  0116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|
 |  0117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| same as 116
 |  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
@@ -287,6 +308,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 
 ***
+
 ### Bit Manipulation
 | Number | Title       |Note|
 | -------|:-------------:|:----------------------:|
@@ -314,9 +336,12 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)| Classic NP, NOTE!
 |  0546  | [Remove Boxes](https://leetcode.com/problems/remove-boxes/)
 |  0718  | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
+|  1024  | [Video Stitching](https://leetcode.com/problems/video-stitching/)|
+
 #### Documentation:
 - [DP Classify and Summarize](https://zhuanlan.zhihu.com/p/126546914?utm_source=wechat_session&utm_medium=social&utm_oi=27134168924160%E3%80%82)
 ***
+
 ### Graph
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
@@ -338,6 +363,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0347  | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|
 |  0349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|similar as 0350 with set() used to print same element only once|
 |  0350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|collections.Counter() and & used to print also duplicate elements|
+|  1002  | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)|
 
 
 ***
@@ -346,13 +372,17 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
 |  0092  | [Reversed Linked List II](https://leetcode.com/problems/reversed-linked-list-ii/)| Integrated with the method in 0206 reversed linked list|
+|  0024  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 |  0109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 |  0141  | [linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ｜ fast-slow pointers to achieve space complexity O(1)
 |  0142  | [linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) ｜ fast-slow pointers with math prove to return the start node
+|  0143  | [Reorder List](https://leetcode.com/problems/Reorder-list/) ｜ A combined method question * worth revise*
 |  0206  | [Reversed Linked List](https://leetcode.com/problems/reversed-linked-list/)|
+|  0234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | fast-slow pointers with reversed linked list combined
 
 
 ***
+
 ### Math
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
@@ -363,6 +393,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  1014  | [Best Sightseeing Pair ](https://leetcode.com/problems/best-sightseeing-pair/)| O(n^2) will exceed time limit, O(n) method used here
 
 ***
+
 ### Sorting
 | Number | Title       |
 | -------|:-------------:|
@@ -370,6 +401,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 
 ***
+
 ### Stack
 | Number | Title       |
 | -------|:-------------:|
@@ -379,6 +411,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 
 ***
+
 ### String
 | Number | Title       |Note|
 | -------|:-------------:|:----|
@@ -395,8 +428,10 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 |  0647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |dynamic programming|
 |  0696  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+|  0925  | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 
 ***
+
 ### Two Pointers
 | Number | Title       |Note|
 | -------|:-------------:|:----:|
@@ -405,8 +440,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0075  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | quick sort partition design
 |  0167  | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 |  0392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+|  0763  | [Partition Labels](https://leetcode.com/problems/partition-labels/)
+|  0845  | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
 
 ***
+
 ### Union Find
 | Number | Title       |Note|
 | -------|:-------------:|:----:|
