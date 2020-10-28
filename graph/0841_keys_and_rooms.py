@@ -19,9 +19,6 @@ We then go to room 1, and pick up key 2.
 We then go to room 2, and pick up key 3.
 We then go to room 3.  Since we were able to go to every room, we return true.
 
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/keys-and-rooms
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
 from collections import defaultdict
 from typing import List

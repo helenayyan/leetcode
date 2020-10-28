@@ -18,9 +18,6 @@ by a path of the same color as the starting pixel are colored with the new color
 Note the bottom corner is not colored 2, because it is not 4-directionally connected
 to the starting pixel.
 
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/flood-fill
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
 from typing import List
 

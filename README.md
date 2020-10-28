@@ -213,6 +213,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 25/10/2020 | [1024 Video Stitching](https://leetcode.com/problems/video-stitching/)
 | 26/10/2020 | [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 | 27/10/2020 | [0144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+| 28/10/2020 | [1207 Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 
 </details>
 ***
@@ -347,6 +348,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | -------|:-------------:|:------:|
 |  0133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)| dfs with hashtable
 |  0207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)| decorator used
+|  0286  | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)| graph dfs
 |  0329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| decorator used
 |  0332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | dfs with sorted list needed
 |  0529  | [Minesweeper](https://leetcode.com/problems/minesweeper/)| dfs
@@ -363,6 +365,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0347  | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|
 |  0349  | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|similar as 0350 with set() used to print same element only once|
 |  0350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|collections.Counter() and & used to print also duplicate elements|
+|  0748  | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)| compare values between strings
 |  1002  | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)|
 
 
@@ -425,6 +428,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0214  | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 |  0336  | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) |hash table used |
 |  0459  | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+|  0472  | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | mock Bloomberg interview 
 |  0557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 |  0647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |dynamic programming|
 |  0696  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
