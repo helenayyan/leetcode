@@ -214,6 +214,8 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 26/10/2020 | [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 | 27/10/2020 | [0144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 | 28/10/2020 | [1207 Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+| 29/10/2020 | [0129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+| 30/10/2020 | [0463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 
 </details>
 ***
@@ -286,6 +288,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0116  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|
 |  0117  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| same as 116
 |  0124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| DFS recursion method model
+|  0129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| DFS recursion method model
 |  0144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| DFS model, here stack is used to iterate
 |  0145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| similar code as 'preorder' with reversed stacking order
 |  0226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
