@@ -25,6 +25,7 @@
   * [Dynamic Programming](#dynamic-programming)
   * [Graph](#graph)
   * [Hash Table](#hash-table)
+  * [Heap](#heap)
   * [Linked List](#linked-list)
   * [Math](#math)
   * [Sorting](#sorting)
