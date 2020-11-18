@@ -20,6 +20,8 @@
     + [General solutions for binary search](#general-solutions-for-binary-search)
   * [Binary Search Tree](#binary-search-tree)
   * [Bit Manipulation](#bit-manipulation)
+  * [Design](#design)
+  * [Divide and Conquer](#divide-and-conquer)
   * [Dynamic Programming](#dynamic-programming)
   * [Graph](#graph)
   * [Hash Table](#hash-table)
@@ -218,6 +220,19 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | 30/10/2020 | [0463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 
 </details>
+
+<details>
+    <summary>November</summary>
+
+| Date       | Title        |
+| ------------- |:-------------|
+| 02/11/2020 | [0349 Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+| 03/11/2020 | [0941 Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+
+
+</details>
+
+
 ***
 ## Coding Style
 | Language       | Style        |
@@ -236,6 +251,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0079  | [Word Search](https://leetcode.com/problems/word-search/)
 |  0088  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|
 |  0491  | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)| Depth-first Search
+|  0941  | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|
 |  1365  | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|hashmap and sorting
 
 ***
@@ -260,6 +276,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0069  | [Square root of x](https://leetcode.com/problems/sqrtx/) | This question can also use *f(x)= x^2 - a* (牛顿迭代法）|
 |  0378  | [kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Binary Search (first method) is faster than using stack and makes full use of the characteristic of matrix|
 |  0704  | [Binary Search](https://leetcode.com/problems/binary-search/)
+|  1060  | [Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)
 
 #### General solutions for binary search:
 - 知识点讲解(by @liweiwei1419)：
@@ -320,6 +337,19 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 
 
 ***
+### Design
+| Number | Title       |Note|
+| -------|:-------------:|:----------------------:|
+|  1244  | [Design a Leaderboard](https://leetcode.com/problems/desgin-a-leaderboard/) |
+
+***
+### Divide and Conquer
+| Number | Title       |Note|
+| -------|:-------------:|:----------------------:|
+|  1274  | [Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/) |
+
+
+***
 
 ### Dynamic Programming
 | Number | Title       | Note|
@@ -371,14 +401,22 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0748  | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)| compare values between strings
 |  1002  | [Find Common Characters](https://leetcode.com/problems/find-common-characters/)|
 
+***
+
+### Heap
+| Number | Title       | Note|
+| -------|:-------------:|:------:|
+|  0253  | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)| minimum heap
+
 
 ***
 
 ### Linked List
 | Number | Title       | Note|
 | -------|:-------------:|:------:|
-|  0092  | [Reversed Linked List II](https://leetcode.com/problems/reversed-linked-list-ii/)| Integrated with the method in 0206 reversed linked list|
 |  0024  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+|  0083  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+|  0092  | [Reversed Linked List II](https://leetcode.com/problems/reversed-linked-list-ii/)| Integrated with the method in 0206 reversed linked list|
 |  0109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 |  0141  | [linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ｜ fast-slow pointers to achieve space complexity O(1)
 |  0142  | [linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) ｜ fast-slow pointers with math prove to return the start node
@@ -413,7 +451,11 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 | -------|:-------------:|
 |  0032  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 |  0155  | [Min Stack](https://leetcode.com/problems/min-stack/)
+|  0394  | [Decode String](https://leetcode.com/problems/decode-string/)
 |  0739  | [Daily Temperatures](https://leetcode.com/problems/daily_temperatures/)
+|  0759  | [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+|  0921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+|  1209  | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 
 
 ***
