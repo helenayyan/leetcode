@@ -386,8 +386,10 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0329  | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| decorator used
 |  0332  | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | dfs with sorted list needed
 |  0529  | [Minesweeper](https://leetcode.com/problems/minesweeper/)| dfs
+|  0694  | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands//)| dfs
 |  0733  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | dfs
 |  0785  | [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)| bfs method applied
+|  0797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| 
 |  0841  | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| dfs
 ***
 
