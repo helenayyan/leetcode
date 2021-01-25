@@ -341,6 +341,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 ### Design
 | Number | Title       |Note|
 | -------|:-------------:|:----------------------:|
+|  0353  | [Design Snake Game](https://leetcode.com/problems/desgin-snake-game/) |
 |  1244  | [Design a Leaderboard](https://leetcode.com/problems/desgin-a-leaderboard/) |
 
 ***
@@ -421,6 +422,7 @@ Welcome to visit my personal blog page. You can find my documentations of data s
 |  0083  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 |  0092  | [Reversed Linked List II](https://leetcode.com/problems/reversed-linked-list-ii/)| Integrated with the method in 0206 reversed linked list|
 |  0109  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+|  0138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 |  0141  | [linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ｜ fast-slow pointers to achieve space complexity O(1)
 |  0142  | [linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) ｜ fast-slow pointers with math prove to return the start node
 |  0143  | [Reorder List](https://leetcode.com/problems/Reorder-list/) ｜ A combined method question * worth revise*

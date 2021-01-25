@@ -5,6 +5,7 @@ Example 1:
 
 Input: [5,7]
 Output: 4
+
 Example 2:
 
 Input: [0,1]
